@@ -1,8 +1,9 @@
-package app.developer.lauren.com.mywallet
+package app.developer.lauren.com.mywallet.ui.activities
 
 import android.os.Bundle
 import android.support.design.widget.BottomNavigationView
 import android.support.v7.app.AppCompatActivity
+import app.developer.lauren.com.mywallet.R
 import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity() {
