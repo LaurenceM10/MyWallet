@@ -1,4 +1,4 @@
-package app.developer.lauren.com.mywallet.ui.activities
+package app.developer.lauren.com.mywallet.app.ui.activities
 
 import android.os.Bundle
 import android.support.design.widget.BottomNavigationView

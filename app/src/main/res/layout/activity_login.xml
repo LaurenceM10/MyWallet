@@ -5,7 +5,7 @@
     android:layout_height="match_parent"
     android:gravity="center"
     android:orientation="vertical"
-    tools:context="app.developer.lauren.com.mywallet.ui.activities.LoginActivity">
+    tools:context=".app.ui.activities.LoginActivity">
 
     <EditText
         android:id="@+id/username"
